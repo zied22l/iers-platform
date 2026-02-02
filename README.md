@@ -11,10 +11,10 @@ explainable AI-based scoring to support decision-making.
 
 ## Team
 - Zied Alimi –
-- Member 2 –
-- Member 3 – 
-- Member 4 – 
-- Member 5 –
+- Ahlem bounasri
+- Yasmine Ben Abedlali
+- Malek Fridhi 
+- Mohamed nour slimi
 
 ---
 
@@ -30,12 +30,18 @@ explainable AI-based scoring to support decision-making.
 
 ## Project Structure
 iers-platform/
-│
+
+
 ├── backend/ # Spring Boot backend
+
 ├── frontend/ # Angular frontend
+
 ├── ai-service/ # Python AI/NLP recommendation module
+
 ├── database/ # Database schema and scripts
+
 ├── docs/ # Reports, diagrams, documentation
+
 └── README.md
 
 
