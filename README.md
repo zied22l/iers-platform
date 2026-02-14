@@ -32,9 +32,9 @@ explainable AI-based scoring to support decision-making.
 iers-platform/
 
 
-├── backend/ # Spring Boot backend
+├── backend/ # nest.js backend
 
-├── frontend/ # Angular frontend
+├── frontend/ # react frontend
 
 ├── ai-service/ # Python AI/NLP recommendation module
 
@@ -48,7 +48,7 @@ iers-platform/
 ---
 
 ## Technologies (planned)
-- Backend: Spring Boot
-- Frontend: Angular
-- Database: MySQL / PostgreSQL
+- Backend: nest.js
+- Frontend: react
+- Database: mongoDB
 - AI/NLP: Python
